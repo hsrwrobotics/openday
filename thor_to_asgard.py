@@ -73,10 +73,11 @@ if __name__ == '__main__':
         rospy.init_node('nav_test', anonymous=False)
         navigator = GoToPose()
 
-        # CHARGING AREA [EARTH / BASE] _A
+        # EARTH
         position_start = {'x': -1.27, 'y' : -2.99}
         quaternion_start = {'r1' : 0.000, 'r2' : 0.000, 'r3' : -0.342, 'r4' : 0.94000}
 
+	# ASGARD 
         position_end={'x':-7.141, 'y': -5.29}
         quaternion_end = {'r1' : 0.000, 'r2' : 0.000, 'r3' : 0.899, 'r4' : 0.438000}
         
