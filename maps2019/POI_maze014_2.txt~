@@ -1,0 +1,97 @@
+MAZE014_2
+
+CHARGING AREA [Asgard]
+header: 
+  seq: 1
+  stamp: 
+    secs: 1557912443
+    nsecs: 426775686
+  frame_id: map
+pose: 
+  pose: 
+    position: 
+      x: 0.15472146182
+      y: 0.224341413441
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: -0.0341038889801
+      w: 0.999418293187
+----------------------------------------------------
+END [Amazon]
+header: 
+  seq: 2
+  stamp: 
+    secs: 1557912561
+    nsecs: 115061037
+  frame_id: map
+pose: 
+  pose: 
+    position: 
+      x: -2.53864928973
+      y: -4.21351771191
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: -0.0190490182534
+      w: 0.99981855099
+-----------------------------------------------------
+THE U-BEND []
+header: 
+  seq: 3
+  stamp: 
+    secs: 1557912670
+    nsecs: 394593470
+  frame_id: map
+pose: 
+  pose: 
+    position: 
+      x: -0.259381769781
+      y: -3.71034488534
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: -0.399844346479
+      w: 0.916583056023
+-----------------------------------------------------
+HOUSE OF MIRRORS []
+header: 
+  seq: 4
+  stamp: 
+    secs: 1557912752
+    nsecs: 379300825
+  frame_id: map
+pose: 
+  pose: 
+    position: 
+      x: -2.33603881909
+      y: -0.294900084893
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: -0.985297780861
+      w: 0.170845787278
+-----------------------------------------------------
+AUTOBAHN/ THE LONG STRETCH []
+header: 
+  seq: 5
+  stamp: 
+    secs: 1557912847
+    nsecs: 411486856
+  frame_id: map
+pose: 
+  pose: 
+    position: 
+      x: -3.31173307992
+      y: -2.98168918726
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: -0.0209079192763
+      w: 0.999781405564
+
